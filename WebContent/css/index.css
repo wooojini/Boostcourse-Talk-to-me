@@ -1,0 +1,43 @@
+.main-title {
+    font-size: 1.4375rem;
+    font-weight: bold;
+}
+
+.main-description {
+    margin-top: 1.25rem;
+}
+
+.main-nav {
+    margin-top: 1.25rem;
+}
+
+.main-nav ul {
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.main-nav li {
+    width: 6.25rem;
+    height: 6.25rem;
+    line-height: 6.25rem;
+    vertical-align: middle;
+}
+
+.main-nav a {
+    color: white;
+}
+
+.main-nav a:hover {
+    color: #E7CBBF;
+}
+
+.main-map {
+    margin-top: 1.25rem;
+}
+
+.main-map img {
+    box-sizing: border-box;
+    width: 50rem;
+    border: 0.125rem solid #EBEDED;
+}

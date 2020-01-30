@@ -1,0 +1,26 @@
+img {
+    width: 18.75rem;
+    height: 12.5rem;
+    border: 0.5rem solid gray;
+    float: left;
+    margin-right: 1.875rem;
+}
+
+p {
+    line-height: 180%;
+}
+
+.top-line {
+    border-top: 1.5px solid #C1BEC1;
+}
+
+.area-main {
+    text-align: left;
+    padding: 0 0.625rem;
+}
+
+.main-content {
+    margin: 0;
+    padding: 3.75rem 2.5rem;
+    overflow: hidden;
+}
